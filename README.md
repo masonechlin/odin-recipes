@@ -1,1 +1,1 @@
-# odin-recipes
+Writing Odin Recipes Project and should demonstrate full knowledge of HTML skills.
